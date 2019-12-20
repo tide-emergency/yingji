@@ -127,7 +127,7 @@ def guowai_lianjie():
 if __name__=='__main__':
     ip1=list()
     ip_list=list()
-    find_str()
-    # url_tongji()
+#     find_str()
+    url_tongji()
     # guowai_lianjie
 
