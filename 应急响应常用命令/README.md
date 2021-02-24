@@ -1,0 +1,1 @@
+积累linux和windows应急中，常用的命令
